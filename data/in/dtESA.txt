@@ -1,0 +1,169 @@
+Liga	Gosp	Gosc	Frek
+ESA	Wis³a P³ock	Lechia Gdañsk	6889
+ESA	Pogoñ Szczecin	Wis³a Kraków	8289
+ESA	Cracovia	Piast Gliwice	8109
+ESA	Górnik Zabrze	Legia Warszawa	22708
+ESA	Arka Gdynia	Œl¹sk Wroc³aw	10083
+ESA	Bruk-Bet	Jagiellonia	3977
+ESA	Lech Poznañ	Sandecja	18667
+ESA	Korona Kielce	Zag³êbie Lubin	6463
+ESA	Sandecja	Arka Gdynia	2646
+ESA	Wis³a Kraków	Bruk-Bet	11811
+ESA	Piast Gliwice	Pogoñ Szczecin	4555
+ESA	Lechia Gdañsk	Cracovia	15624
+ESA	Legia Warszawa	Korona Kielce	15041
+ESA	Wis³a P³ock	Lech Poznañ	6511
+ESA	Jagiellonia	Górnik Zabrze	11236
+ESA	Zag³êbie Lubin	Œl¹sk Wroc³aw	8251
+ESA	Bruk-Bet	Zag³êbie Lubin	3105
+ESA	Œl¹sk Wroc³aw	Lechia Gdañsk	13495
+ESA	Legia Warszawa	Sandecja	14393
+ESA	Górnik Zabrze	Wis³a Kraków	22708
+ESA	Arka Gdynia	Wis³a P³ock	8142
+ESA	Pogoñ Szczecin	Jagiellonia	8356
+ESA	Lech Poznañ	Piast Gliwice	13783
+ESA	Korona Kielce	Cracovia	8270
+ESA	Piast Gliwice	Œl¹sk Wroc³aw	4274
+ESA	Wis³a P³ock	Wis³a Kraków	5001
+ESA	Lechia Gdañsk	Górnik Zabrze	14567
+ESA	Zag³êbie Lubin	Pogoñ Szczecin	6089
+ESA	Bruk-Bet	Legia Warszawa	4561
+ESA	Jagiellonia	Sandecja	11399
+ESA	Cracovia	Lech Poznañ	9114
+ESA	Arka Gdynia	Korona Kielce	7932
+ESA	Legia Warszawa	Piast Gliwice	13708
+ESA	Sandecja	Wis³a P³ock	2070
+ESA	Lech Poznañ	Zag³êbie Lubin	15121
+ESA	Wis³a Kraków	Cracovia	25523
+ESA	Górnik Zabrze	Arka Gdynia	22708
+ESA	Korona Kielce	Jagiellonia	9460
+ESA	Pogoñ Szczecin	Lechia Gdañsk	8320
+ESA	Œl¹sk Wroc³aw	Bruk-Bet	11050
+ESA	Lechia Gdañsk	Sandecja	11019
+ESA	Cracovia	Górnik Zabrze	8346
+ESA	Arka Gdynia	Pogoñ Szczecin	9074
+ESA	Piast Gliwice	Korona Kielce	4879
+ESA	Jagiellonia	Œl¹sk Wroc³aw	10437
+ESA	Wis³a P³ock	Legia Warszawa	9718
+ESA	Bruk-Bet	Lech Poznañ	4381
+ESA	Zag³êbie Lubin	Wis³a Kraków	8081
+ESA	Górnik Zabrze	Wis³a P³ock	20054
+ESA	Œl¹sk Wroc³aw	Cracovia	8967
+ESA	Korona Kielce	Bruk-Bet	6475
+ESA	Jagiellonia	Piast Gliwice	10658
+ESA	Wis³a Kraków	Lechia Gdañsk	9131
+ESA	Lech Poznañ	Arka Gdynia	20574
+ESA	Sandecja	Pogoñ Szczecin	2240
+ESA	Legia Warszawa	Zag³êbie Lubin	14937
+ESA	Zag³êbie Lubin	Wis³a P³ock	5178
+ESA	Arka Gdynia	Wis³a Kraków	7718
+ESA	Korona Kielce	Sandecja	7750
+ESA	Œl¹sk Wroc³aw	Legia Warszawa	24086
+ESA	Cracovia	Jagiellonia	7262
+ESA	Bruk-Bet	Górnik Zabrze	3519
+ESA	Pogoñ Szczecin	Lech Poznañ	10695
+ESA	Piast Gliwice	Lechia Gdañsk	5140
+ESA	Arka Gdynia	Zag³êbie Lubin	7357
+ESA	Lech Poznañ	Korona Kielce	20581
+ESA	Wis³a P³ock	Pogoñ Szczecin	3111
+ESA	Górnik Zabrze	Œl¹sk Wroc³aw	22708
+ESA	Wis³a Kraków	Piast Gliwice	10822
+ESA	Sandecja	Bruk-Bet	2644
+ESA	Legia Warszawa	Cracovia	16585
+ESA	Lechia Gdañsk	Jagiellonia	15135
+ESA	Piast Gliwice	Arka Gdynia	3850
+ESA	Œl¹sk Wroc³aw	Lech Poznañ	22075
+ESA	Bruk-Bet	Lechia Gdañsk	2148
+ESA	Pogoñ Szczecin	Górnik Zabrze	4548
+ESA	Korona Kielce	Wis³a Kraków	7651
+ESA	Zag³êbie Lubin	Sandecja	5473
+ESA	Jagiellonia	Legia Warszawa	17894
+ESA	Cracovia	Wis³a P³ock	4803
+ESA	Sandecja	Œl¹sk Wroc³aw	1341
+ESA	Arka Gdynia	Cracovia	8541
+ESA	Lechia Gdañsk	Zag³êbie Lubin	9399
+ESA	Pogoñ Szczecin	Korona Kielce	5595
+ESA	Wis³a Kraków	Jagiellonia	11056
+ESA	Górnik Zabrze	Piast Gliwice	22708
+ESA	Wis³a P³ock	Bruk-Bet	4898
+ESA	Lech Poznañ	Legia Warszawa	36829
+ESA	Korona Kielce	Wis³a P³ock	6069
+ESA	Jagiellonia	Lech Poznañ	12156
+ESA	Piast Gliwice	Sandecja	4248
+ESA	Bruk-Bet	Arka Gdynia	2155
+ESA	Œl¹sk Wroc³aw	Wis³a Kraków	21503
+ESA	Zag³êbie Lubin	Górnik Zabrze	11256
+ESA	Legia Warszawa	Lechia Gdañsk	18574
+ESA	Cracovia	Pogoñ Szczecin	5759
+ESA	Zag³êbie Lubin	Piast Gliwice	6021
+ESA	Górnik Zabrze	Korona Kielce	22708
+ESA	Sandecja	Cracovia	2983
+ESA	Pogoñ Szczecin	Bruk-Bet	3146
+ESA	Lechia Gdañsk	Lech Poznañ	13493
+ESA	Arka Gdynia	Jagiellonia	11097
+ESA	Wis³a Kraków	Legia Warszawa	33000
+ESA	Wis³a P³ock	Œl¹sk Wroc³aw	3613
+ESA	Œl¹sk Wroc³aw	Pogoñ Szczecin	12445
+ESA	Lech Poznañ	Wis³a Kraków	26361
+ESA	Piast Gliwice	Wis³a P³ock	3784
+ESA	Cracovia	Bruk-Bet	6431
+ESA	Sandecja	Górnik Zabrze	1448
+ESA	Jagiellonia	Zag³êbie Lubin	8375
+ESA	Legia Warszawa	Arka Gdynia	14424
+ESA	Lechia Gdañsk	Korona Kielce	7066
+ESA	Korona Kielce	Œl¹sk Wroc³aw	8147
+ESA	Arka Gdynia	Lechia Gdañsk	14113
+ESA	Wis³a P³ock	Jagiellonia	4111
+ESA	Wis³a Kraków	Sandecja	14007
+ESA	Górnik Zabrze	Lech Poznañ	24563
+ESA	Bruk-Bet	Piast Gliwice	2612
+ESA	Zag³êbie Lubin	Cracovia	5219
+ESA	Pogoñ Szczecin	Legia Warszawa	6192
+ESA	Jagiellonia	Bruk-Bet	6973
+ESA	Wis³a Kraków	Pogoñ Szczecin	11398
+ESA	Piast Gliwice	Cracovia	4297
+ESA	Sandecja	Lech Poznañ	2544
+ESA	Lechia Gdañsk	Wis³a P³ock	7670
+ESA	Œl¹sk Wroc³aw	Arka Gdynia	8421
+ESA	Legia Warszawa	Górnik Zabrze	24981
+ESA	Zag³êbie Lubin	Korona Kielce	3784
+ESA	Cracovia	Lechia Gdañsk	5611
+ESA	Górnik Zabrze	Jagiellonia	22708
+ESA	Pogoñ Szczecin	Piast Gliwice	1611
+ESA	Arka Gdynia	Sandecja	5064
+ESA	Korona Kielce	Legia Warszawa	15200
+ESA	Lech Poznañ	Wis³a P³ock	13587
+ESA	Œl¹sk Wroc³aw	Zag³êbie Lubin	10057
+ESA	Bruk-Bet	Wis³a Kraków	4510
+ESA	Jagiellonia	Pogoñ Szczecin	4111
+ESA	Lechia Gdañsk	Œl¹sk Wroc³aw	8313
+ESA	Wis³a P³ock	Arka Gdynia	2883
+ESA	Zag³êbie Lubin	Bruk-Bet	2447
+ESA	Sandecja	Legia Warszawa	2619
+ESA	Piast Gliwice	Lech Poznañ	4560
+ESA	Wis³a Kraków	Górnik Zabrze	16808
+ESA	Cracovia	Korona Kielce	5660
+ESA	Sandecja	Jagiellonia	724
+ESA	Górnik Zabrze	Lechia Gdañsk	20163
+ESA	Œl¹sk Wroc³aw	Piast Gliwice	5645
+ESA	Korona Kielce	Arka Gdynia	7713
+ESA	Legia Warszawa	Bruk-Bet	11388
+ESA	Pogoñ Szczecin	Zag³êbie Lubin	2634
+ESA	Wis³a Kraków	Wis³a P³ock	10141
+ESA	Lech Poznañ	Cracovia	20692
+ESA	Jagiellonia	Korona Kielce	4774
+ESA	Piast Gliwice	Legia Warszawa	5243
+ESA	Arka Gdynia	Górnik Zabrze	6923
+ESA	Bruk-Bet	Œl¹sk Wroc³aw	2009
+ESA	Lechia Gdañsk	Pogoñ Szczecin	9548
+ESA	Zag³êbie Lubin	Lech Poznañ	7629
+ESA	Cracovia	Wis³a Kraków	14000
+ESA	Wis³a P³ock	Sandecja	1719
+ESA	Korona Kielce	Piast Gliwice	5277
+ESA	Œl¹sk Wroc³aw	Jagiellonia	4504
+ESA	Pogoñ Szczecin	Arka Gdynia	3587
+ESA	Sandecja	Lechia Gdañsk	843
+ESA	Legia Warszawa	Wis³a P³ock	13721
+ESA	Lech Poznañ	Bruk-Bet	8102
+ESA	Wis³a Kraków	Zag³êbie Lubin	10515
+ESA	Górnik Zabrze	Cracovia	17873

@@ -1,0 +1,53 @@
+Liga	Poziom	Pos	numPos	Club
+ESA	1	1	1	Legia Warszawa
+ESA	1	2	2	Lech Poznañ
+ESA	1	3	3	Górnik Zabrze
+ESA	1	4	4	Jagiellonia
+ESA	1	5	5	Zag³êbie Lubin
+ESA	1	6	6	Arka Gdynia
+ESA	1	7	7	Korona Kielce
+ESA	1	8	8	Wis³a Kraków
+ESA	1	9	9	Wis³a P³ock
+ESA	1	10	10	Œl¹sk Wroc³aw
+ESA	1	11	11	Lechia Gdañsk
+ESA	1	12	12	Cracovia
+ESA	1	13	13	Bruk-Bet
+ESA	1	14	14	Sandecja
+ESA	1	15	15	Piast Gliwice
+ESA	1	16	16	Pogoñ Szczecin
+2L	3	1	35	GKS 1962 Jastrzêbie (Jastrzêbie Zdrój)
+2L	3	2	36	£KS £ódŸ
+2L	3	3	37	Warta Poznañ
+2L	3	4	38	Radomiak Radom
+2L	3	5	39	Olimpia Elbl¹g
+2L	3	6	40	Siarka Tarnobrzeg
+2L	3	7	41	Znicz Pruszków
+2L	3	8	42	GKS Be³chatów
+2L	3	9	43	B³êkitni Stargard
+2L	3	10	44	Garbarnia Kraków
+2L	3	11	45	Wis³a Pu³awy
+2L	3	12	46	ROW 1964 Rybnik
+2L	3	13	47	Stal Stalowa Wola
+2L	3	14	48	Legionovia Legionowo
+2L	3	15	49	Rozwój Katowice
+2L	3	16	50	MKS Kluczbork
+2L	3	17	51	Gwardia Koszalin
+2L	3	18	52	Gryf Wejherowo
+1L	2	1	17	Chojniczanka Chojnice
+1L	2	2	18	Odra Opole
+1L	2	3	19	Raków Czêstochowa
+1L	2	4	20	MiedŸ Legnica
+1L	2	5	21	Stal Mielec
+1L	2	6	22	Chrobry G³ogów
+1L	2	7	23	GKS Katowice
+1L	2	8	24	Zag³êbie Sosnowiec
+1L	2	9	25	Puszcza Niepo³omice
+1L	2	10	26	Wigry Suwa³ki
+1L	2	11	27	Bytovia Bytów
+1L	2	12	28	Podbeskidzie Bielsko-Bia³a
+1L	2	13	29	Pogoñ Siedlce
+1L	2	14	30	GKS Tychy
+1L	2	15	31	Olimpia Grudzi¹dz
+1L	2	16	32	Stomil Olsztyn
+1L	2	17	33	Górnik £êczna
+1L	2	18	34	Ruch Chorzów
