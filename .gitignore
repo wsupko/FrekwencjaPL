@@ -1,4 +1,4 @@
-# History files
+3# History files
 .Rhistory
 .Rapp.history
 
@@ -38,4 +38,4 @@ vignettes/*.pdf
 
 # Scraping script
 
-scrapData.R
+./scrapData.R
