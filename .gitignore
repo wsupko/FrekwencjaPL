@@ -36,6 +36,3 @@ vignettes/*.pdf
 # Input data
 /data
 
-# Scraping script
-
-./scrapData.R

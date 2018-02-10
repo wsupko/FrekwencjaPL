@@ -38,7 +38,7 @@ CJ.table <- function(X,Y){
 dtTabela <- fread('./data/in/dtTabela.txt')
 dtESA <- fread('./data/in/dtESA.txt')
 
-source('scrapData.R')
+source('./data/scrapData.R')
 
 frekData <- rbind(dtESA, dtL1, dtL2)
 
